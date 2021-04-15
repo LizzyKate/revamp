@@ -1,0 +1,175 @@
+[
+  {
+    "list": [
+      {
+        "type": "Text",
+        "font": "ri-file-text-line",
+        "text": "Text",
+        "id": 0.7994249182709599,
+        "name": "Content",
+        "lineHeight": "24",
+        "letterSpacing": "1",
+        "textColor": "",
+        "content": "<h1><strong style=\"color: rgb(0, 97, 0);\">Hello</strong></h1><p><br></p><h3><strong>Lorem ipsum dolor sit amet, cnsectetur knd dipiscing elit, sed do eiusmod tempor ncididunt ut labore et dolore magna aliqua.</strong></h3>",
+        "opacity": 10,
+        "width": 100,
+        "padding": { "right": "0", "left": "49", "top": "89", "bottom": "3" },
+        "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+        "border": { "top": 0, "bottom": 0, "right": 0, "left": 0 },
+        "borderStyle": "solid",
+        "borderColor": "",
+        "borderRadius": {
+          "topRight": 0,
+          "topLeft": 0,
+          "bottomRight": 0,
+          "bottomLeft": 0
+        }
+      },
+      {
+        "name": "Photo",
+        "id": 0.4842682528364075,
+        "border": { "top": 0, "bottom": 0, "right": 0, "left": 0 },
+        "padding": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+        "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+        "borderStyle": "solid",
+        "borderRadius": {
+          "topRight": 0,
+          "topLeft": 0,
+          "bottomRight": 0,
+          "bottomLeft": 0
+        },
+        "position": { "center": "center", "left": "left", "right": "Right" },
+        "borderColor": "",
+        "width": "73.6",
+        "height": 100,
+        "opacity": 1,
+        "image": "image/jump.png"
+      }
+    ],
+    "properties": {
+      "width": 100,
+      "height": 280,
+      "padding": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "borderRadius": {
+        "topRight": 0,
+        "topLeft": 0,
+        "bottomRight": 0,
+        "bottomLeft": 0
+      },
+      "border": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "position": { "center": "center", "left": "left", "right": "right" },
+      "borderStyle": "solid",
+      "backgroundColor": "",
+      "borderColor": "",
+      "backgroundImage": "",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat",
+      "backgroundPosition": "center",
+      "opacity": 10
+    }
+  },
+  {
+    "list": [
+      {
+        "name": "Button",
+        "id": 0.5678145925567903,
+        "width": "25.7",
+        "buttonColor": "#9B51E0 ",
+        "textColor": "#f2f2f2",
+        "borderColor": "none",
+        "margin": { "bottom": 0, "top": 0, "right": 0, "left": 0 },
+        "padding": { "top": 5, "bottom": 5, "right": 8, "left": 8 },
+        "border": 0,
+        "borderStyle": "solid",
+        "position": { "center": "center", "left": "left", "right": "Right" },
+        "borderRadius": {
+          "topRight": 0,
+          "topLeft": 0,
+          "bottomRight": 0,
+          "bottomLeft": 0
+        },
+        "opacity": 1,
+        "content": "Get Started"
+      }
+    ],
+    "properties": {
+      "width": 100,
+      "height": 280,
+      "padding": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "borderRadius": {
+        "topRight": 0,
+        "topLeft": 0,
+        "bottomRight": 0,
+        "bottomLeft": 0
+      },
+      "border": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "position": { "center": "center", "left": "left", "right": "right" },
+      "borderStyle": "solid",
+      "backgroundColor": "",
+      "borderColor": "",
+      "backgroundImage": "",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat",
+      "backgroundPosition": "center",
+      "opacity": 10
+    }
+  },
+  {
+    "list": [
+      {
+        "name": "Social",
+        "id": 0.21364416773347727,
+        "backgroundColor": "#8956e6",
+        "color": "",
+        "size": "28",
+        "icons": [
+          {
+            "name": "facebook",
+            "icon": "ri-facebook-line",
+            "link": "",
+            "color": "#fafafa"
+          },
+          { "icon": "ri-twitter-line", "link": "", "color": "#ffffff" },
+          { "icon": "ri-twitter-fill", "link": "" }
+        ],
+        "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+        "padding": { "right": 4, "left": 4, "top": 4, "bottom": 4 },
+        "border": { "top": 0, "bottom": 0, "right": 0, "left": 0 },
+        "borderRadius": {
+          "topRight": 0,
+          "topLeft": 0,
+          "bottomRight": 0,
+          "bottomLeft": 0
+        },
+        "borderStyle": "solid",
+        "borderColor": "",
+        "position": "center",
+        "opacity": 10
+      }
+    ],
+    "properties": {
+      "width": 100,
+      "height": 280,
+      "padding": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "borderRadius": {
+        "topRight": 0,
+        "topLeft": 0,
+        "bottomRight": 0,
+        "bottomLeft": 0
+      },
+      "border": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "margin": { "right": 0, "left": 0, "top": 0, "bottom": 0 },
+      "position": { "center": "center", "left": "left", "right": "right" },
+      "borderStyle": "solid",
+      "backgroundColor": "",
+      "borderColor": "",
+      "backgroundImage": "",
+      "backgroundSize": "cover",
+      "backgroundRepeat": "no-repeat",
+      "backgroundPosition": "center",
+      "opacity": 10
+    }
+  }
+]
